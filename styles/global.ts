@@ -44,6 +44,7 @@ const GlobalStyle = createGlobalStyle`
               flex-direction: column;
               position: relative;
               overflow: hidden;
+              border: 1px solid #fff;
           }
           .large-span-12 {
               grid-column: span 12;
